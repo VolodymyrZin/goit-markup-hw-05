@@ -702,14 +702,14 @@ img {
                                   letter-spacing: 0.04em;
                                   color: #8E8F99;
 }
-.form-textarea {
+/* .form-textarea {
   color: #8E8F99;
   font-family: Roboto;
   font-weight: 400;
   font-size: 12px;
   line-height: 1.17;
   letter-spacing: 0.04em;
-}
+} */
 .privacy-link {
                                    color: #4D5AE5;
   /* width: 16px;
